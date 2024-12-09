@@ -1,0 +1,111 @@
+.bar{
+    background-color: black;
+    font-style:oblique;
+    
+    
+}
+.logo{
+    height: 3rem;
+    width: 13rem;
+    
+}
+.test{
+    color: white;
+}
+.dropdown-title {
+    color: #fff; /* Change to white or any color you want */
+  }
+
+  .car{
+      width:100%;
+      height:45rem;
+      background-color: rgb(165, 5, 5);
+    }
+.slide{
+    width:100%;
+    height:45rem;
+    background-size: cover;
+    
+}
+.ets{
+    color: #fff;
+    font-size: 2rem;
+}
+.cont{
+    position: relative;
+    bottom: 3rem;
+    display: flex; 
+    flex-direction: row;
+    padding: 20px;
+    margin: 40px;
+    flex-wrap: wrap;
+    gap: 50px;
+
+    }
+
+.cont1{
+        display: flex; 
+        flex-direction: row;
+        padding: 20px;
+        margin: 40px;
+        flex-wrap: wrap;
+        gap: 50px;
+       
+    
+        }
+.banner{
+    background-image: url(./Asset/back.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    position: relative;
+    bottom: 35px;
+}
+.rbanner{
+    margin-top: 0%;
+    height: 300px;
+    width:100%;
+    opacity:  black;
+    
+}
+.rhead{
+    color: black;
+    font-family: "Radio Canada", sans-serif;
+    font-weight:bold;
+
+    position: relative;
+    top:39rem;
+    left: 2rem;    
+}
+.rb{
+    margin-top: -10%;
+}
+.btnm{
+    position: relative;
+    top: 36.3rem;
+    left:15rem;
+    
+
+}
+#example-collapse-text{
+    margin-bottom: -50px;
+    width:100%;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-family: "Radio Canada", sans-serif;;
+    font-weight:200;
+    color: white;
+    
+}
+.ab{
+    background-color:#d23f07;
+    color: black;
+}
+.ac{
+    
+    font-family: "Radio Canada", sans-serif;
+    position: relative;
+    top: 38.6rem;
+    left:2rem;
+    
+}
